@@ -25,7 +25,6 @@ To run the application, first clone this repository and install the necessary de
 ```bash
 git clone https://github.com/Rohamtalei/GPA-Strain-Mapping.git
 cd strain-mapping
-pip install -r requirements.txt
 ```
 
 ## Usage
