@@ -215,4 +215,3 @@ Contributing
 Contributions and suggestions are welcome! Feel free to fork the repository and submit pull requests.
 
 License
-Include the license information for your project here.
