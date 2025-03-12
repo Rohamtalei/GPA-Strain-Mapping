@@ -24,7 +24,7 @@ To run the application, first clone this repository and install the necessary de
 
 ```bash
 git clone https://github.com/Rohamtalei/GPA-Strain-Mapping.git
-cd strain-mapping-gui
+cd strain-mapping
 pip install -r requirements.txt
 ```
 
@@ -71,11 +71,6 @@ Ensure the following packages are installed:
 - `skimage`
 - `tkinter`
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
