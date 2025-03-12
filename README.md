@@ -1,4 +1,4 @@
-# Strain Mapping GUI
+# Strain Mapping GPA
 
 This repository contains a graphical user interface (GUI) for strain mapping in materials using GPA (Geometric Phase Analysis). The application is built using `Tkinter` for the GUI and `matplotlib` for visualization.
 
