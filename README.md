@@ -73,6 +73,10 @@ Ensure the following packages are installed:
 - `skimage`
 - `tkinter`
 
+  ## Refrences
+
+  Hÿtch, M. J., Snoeck, E. & Kilaas, R. Quantitative measurement of displacement and strain fields from HREM micrographs. Ultramicroscopy 74, 131–146 (1998)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
